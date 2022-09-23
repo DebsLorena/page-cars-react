@@ -10,6 +10,8 @@
 
 <div align="center">
     <img src="./print.PNG" alt="daily.dev" width="550">
+    <img src="./print1.PNG" alt="daily.dev" width="550">
+    <img src="./print2.PNG" alt="daily.dev" width="550">
 </div>
 
 
