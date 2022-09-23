@@ -1,3 +1,38 @@
+<div align="center">
+  <h1>Sejam muito bem vindos!!</h1>
+  <strong> Cars </strong>
+  <h6>Feito com ❤️ by DebsLorena</h6>
+</div>
+<br>
+
+
+## Page, com react.
+
+<div align="center">
+    <img src="./print.PNG" alt="daily.dev" width="550">
+</div>
+
+
+### 🎨 Frontend
+
+*  **React**: com Visual Studio Code, importação de icones e scroll.
+
+
+## 🙌 Quer Contribuir?
+
+Estamos abertos a todos os tipos de contribuições. Se você quiser:
+* 🤔 Sugira um recurso
+* 🐛 Informar um problema
+* 📖 Melhore a documentação
+* 👨‍💻 Contribua com o código
+
+Você é mais que bem vindo. 
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
